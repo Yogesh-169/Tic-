@@ -51,15 +51,17 @@ Tic-Tac-Toe/
 
 ## 💻 How to Run the Game
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine :  
    git clone https://github.com/Yogesh-169/Tic-Tac-Toe-Js.git
-2. Navigate to the project folder:
+2. Navigate to the project folder : 
    cd tic-tac-toe
 3. Open the index.html file in your favorite browser.
 
 ## 🚧 Future Updates
 Add single-player mode with AI.
+
 Add sound effects for moves and announcements.
+
 Customize player names for better interaction.
 
 ## 🎉 Play, Compete, and Have Fun!
