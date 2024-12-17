@@ -37,7 +37,13 @@ This is a simple and fun **Tic-Tac-Toe** game built with **HTML**, **CSS**, and 
 
 ## 📁 Project Files
 
-Tic-Tac-Toe/ │ ├── index.html # HTML structure for the game ├── style.css # Styling for the game board and buttons ├── app.js # JavaScript logic for the game └── README.md # Documentation for the project---
+Tic-Tac-Toe/
+│
+├── index.html        # Main HTML file
+├── style.css         # Game styling
+├── app.js            # JavaScript logic
+└── README.md         # Project documentation
+
 
 ## 💻 How to Run the Game
 
